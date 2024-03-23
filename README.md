@@ -4,7 +4,7 @@
 
 - 👨‍💻 About me: [corbincargil.com](https://www.corbincargil.com/)
 
-- 🔭 I’m currently working on Flunece. A modern social media management platform for small businesses and influencer.
+- 🔭 When I'm not working at my full-time job as a front-end engineer/PM, I’m working on Flunece. A modern social media management platform for small businesses and influencers.
 
 - 📫 How to reach me: corbin@my-fluence.com
 
